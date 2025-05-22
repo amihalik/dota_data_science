@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+.eggs/
+lib/
+lib64/
+parts/
+sbin/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+ENV/
+
+# Pyre type checker
+.pyre/
+
+# mypy
+.mypy_cache/
+
+# PyTest
+.cache/
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Other
+*.log
+*.sqlite3
+
